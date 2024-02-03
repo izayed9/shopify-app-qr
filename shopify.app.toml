@@ -3,7 +3,7 @@
 client_id = "cb3a2fbb8eebf0df05fd001fad727034"
 name = "my-qr-code"
 handle = "my-qr-code-3"
-application_url = "https://baths-edmonton-papers-motors.trycloudflare.com"
+application_url = "https://etc-personalized-disk-wr.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://baths-edmonton-papers-motors.trycloudflare.com/auth/callback",
-  "https://baths-edmonton-papers-motors.trycloudflare.com/auth/shopify/callback",
-  "https://baths-edmonton-papers-motors.trycloudflare.com/api/auth/callback"
+  "https://etc-personalized-disk-wr.trycloudflare.com/auth/callback",
+  "https://etc-personalized-disk-wr.trycloudflare.com/auth/shopify/callback",
+  "https://etc-personalized-disk-wr.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
